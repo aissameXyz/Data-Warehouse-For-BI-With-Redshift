@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Building a Data Warehouse With Amazon Redshift and Visualizing Redshift data with Power BI 👋</h1>
+<h1 align="center">Building a Data Warehouse With Amazon Redshift and Visualizing Redshift data with Power BI 👋</h1>
 <p>
   <a href="https://twitter.com/aissameXyz" target="_blank">
     <img alt="Twitter: aissameXyz" src="https://img.shields.io/twitter/follow/aissameXyz.svg?style=social" />
